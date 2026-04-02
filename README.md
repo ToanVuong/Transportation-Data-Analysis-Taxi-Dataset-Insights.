@@ -20,7 +20,6 @@ The project consists of two main parts:
 
 * Mai Quang Vinh – 2570375
 * Vuong Minh Toan – 2491057
-* Nguyen Viet Hiep – 2570192
 * Do Hoang Linh – 2211844
 * Dam Quang Phuc – 2570483
 
