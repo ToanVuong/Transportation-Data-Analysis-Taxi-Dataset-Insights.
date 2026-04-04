@@ -1,4 +1,4 @@
-# NYC-Taxi-Data-Analytics-using-Microsoft-Fabric-Lakehouse
+# Building Data Processing to BI Pipeline with Microsoft Fabric (NYC Taxi Data)
 # 📊 Data Engineering Application for Data Processing
 
 ## 📌 1. Introduction
